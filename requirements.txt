@@ -1,0 +1,8 @@
+flask
+gunicorn
+flask-sqlalchemy
+alembic
+requests
+beautifulsoup4
+pymysql
+mysqlclient
