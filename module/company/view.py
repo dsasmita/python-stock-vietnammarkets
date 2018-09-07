@@ -32,3 +32,33 @@ def company_index():
         'end': end_time
     }
     return jsonify(data)
+
+@module_company.route('/company-profile')
+def company_profile():
+    start_time = datetime.datetime.now()
+
+    try:
+        f = open('files/company_index.json', 'r')
+        profiles = json.loads(f.read())
+    except IOError:
+        data = {
+            'page': 'stock.vietnammarkets.profile',
+            'title': 'stock vietnammarkets profile',
+            'result': 'file company_index.json not found'
+        }
+        return jsonify(data)
+
+    vietnam_market = VietnamMarkets()
+    company_profile = vietnam_market.company_crawler_list(profiles)
+
+    end_time = datetime.datetime.now()
+
+    data = {
+        'page': 'stock.vietnammarkets.profile',
+        'title': 'stock vietnammarkets profile',
+        'count': len(company_profile),
+        'result': company_profile,
+        'start': start_time,
+        'end': end_time
+    }
+    return jsonify(data)
