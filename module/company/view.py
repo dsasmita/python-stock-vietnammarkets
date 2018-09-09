@@ -49,15 +49,18 @@ def company_profile():
         return jsonify(data)
 
     vietnam_market = VietnamMarkets()
-    company_profile = vietnam_market.company_crawler_list(profiles)
+    company_profiles = vietnam_market.company_crawler_list(profiles)
+
+    with open('files/company_profiles.json', 'w') as outfile:
+        json.dump(company_profiles, outfile)
 
     end_time = datetime.datetime.now()
 
     data = {
         'page': 'stock.vietnammarkets.profile',
         'title': 'stock vietnammarkets profile',
-        'count': len(company_profile),
-        'result': company_profile,
+        'count': len(company_profiles),
+        'result': company_profiles,
         'start': start_time,
         'end': end_time
     }

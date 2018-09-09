@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+import re
+
 import bs4
 import requests
 from googletrans import Translator
@@ -22,9 +24,9 @@ class VietnamMarkets:
         result = response.find('div', 'results')
 
         companies = []
-        if result != None:
-            for list in result.select("tr"):
-                row = list.findAll('td')
+        if result is not None:
+            for tr in result.select("tr"):
+                row = tr.findAll('td')
                 if row[0].get_text() != 'Ticker':
                     tmp = {}
                     tmp['ticker_symbol'] = row[0].get_text()
@@ -45,7 +47,7 @@ class VietnamMarkets:
         result = response.find('div', 'results')
         profile = {}
 
-        if result != None:
+        if result is not None:
             container = result.select_one('table')
             company_profile = []
             financial_summary = []
@@ -59,20 +61,21 @@ class VietnamMarkets:
                     business_summary = row
 
             # company profile
-            company_name_container = result.find_all('p','r1', limit=5)
-            company_name = company_name_container[4].find('strong').get_text().replace('(','').replace(')','').split(':')
+            company_name_container = result.find_all('p', 'r1', limit=5)
+            company_name = company_name_container[4].find('strong').get_text().replace('(', '').replace(')', '').split(':')
             company_profile = company_profile.prettify().split('<br/>')
 
             profile['name'] = company_name[1].strip()
             profile['uid'] = url
-            profile['contact_phone'] = [company_profile[3].strip(),company_profile[4].strip()]
+            profile['contact_phone'] = [company_profile[3].strip(), company_profile[4].strip()]
             profile['contact_email'] = company_profile[5].strip()
             profile['contact_website'] = company_profile[6].strip()
-            profile['business'] = company_profile[7].replace('Business:','').strip()
+            profile['business'] = company_profile[7].replace('Business:', '').strip()
 
             # address
             profile['address_country'] = 'Vietnam'
             profile['address_full'] = company_profile[2].strip()
+            profile['address_full_en'] = ''
 
             profile['address_street'] = profile['address_full']
             profile['address_city_district'] = ''
@@ -80,10 +83,15 @@ class VietnamMarkets:
 
             address = profile['address_full'].split(',')
             if len(address) > 2:
-                translator = Translator()
-                address_en = translator.translate(profile['address_full'], dest='en')
-                profile['address_full_en'] = address_en.text
-                address = profile['address_full_en'].split(',')
+                try:
+                    translator = Translator()
+                    address_en = translator.translate(profile['address_full'], dest='en')
+                    profile['address_full_en'] = address_en.text
+                    address = profile['address_full_en'].split(',')
+                except:
+                    print('error line 92')
+                    address = profile['address_full'].split(',')
+
                 for add in address:
                     tmp = str.lower(add)
                     if 'city' in tmp or 'district' in tmp:
@@ -99,10 +107,18 @@ class VietnamMarkets:
 
             # financial summary
             financial = {}
+            financial['capital_currency'] = ''
+            financial['market_cap'] = ''
+            financial['par_value'] = ''
+            financial['equity'] = ''
+            financial['listing_volume'] = ''
+            financial['listed_date'] = ''
+            financial['initial_listed_price'] = ''
+
             for row in financial_summary.find_all('tr'):
                 tmp = row.get_text().split(':')
                 tmp_string = str.lower(row.get_text())
-                value = tmp[1].replace(',','')
+                value = tmp[1].replace(',', '')
                 if 'capital currency' in tmp_string:
                     financial['capital_currency'] = value
                 if 'market cap' in tmp_string:
@@ -119,7 +135,39 @@ class VietnamMarkets:
                     financial['initial_listed_price'] = value
 
             profile['financial_summary'] = financial
+            profile['market_cap'] = financial['market_cap']
 
+            # business summary
+            summary = re.findall('Business Summary:(.*?)Auditing Company:', business_summary.get_text(), re.DOTALL)
+            profile['business_summary'] = summary[0].strip()
+            profile['business_summary_en'] = ''
+            try:
+                translator = Translator()
+                business_summary_en = translator.translate(summary[0].strip(), dest='en')
+                profile['business_summary_en'] = business_summary_en.text
+            except:
+                print('error line 148')
+                profile['business_summary_en'] = ''
+
+            # auditing company
+            auditings = re.findall('Auditing Company:(.*?)Business Registration:', business_summary.prettify(), re.DOTALL)
+            auditing_split = auditings[0].replace('<strong>', '').replace('</strong>', '').split('<br/>')
+            auditing = []
+            for row in auditing_split:
+                if row.strip() != '':
+                    auditing.append(row.strip())
+            profile['auditing_company'] = auditing
+
+            # business registration
+            reg = business_summary.prettify().split('Business Registration:')
+            reg = reg[1].split('<br/>')
+            registration = {}
+            for row in reg:
+                if 'Established License' in row:
+                    registration['established_license'] = row.replace('Established License:', '').replace('Established License', '').strip()
+                if 'Business License' in row:
+                    registration['business_license'] = row.replace('Business License:', '').replace('Business License', '').strip()
+            profile['business_registration'] = registration
 
         response.decompose()
 
@@ -131,11 +179,7 @@ class VietnamMarkets:
         n = 0
         results = []
         for profile in profiles:
-            if n >= 50:
-                break
             profile_detail = self.company_profiles(profile)
-            print('--------------------------')
-            print(profile_detail)
             results.append(profile_detail)
             n = n + 1
 
