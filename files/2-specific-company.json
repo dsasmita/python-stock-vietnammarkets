@@ -1,0 +1,49 @@
+{
+    "count": 23,
+    "data": {
+        "address_city_district": "Chau Thanh District",
+        "address_country": "Vietnam",
+        "address_full": "Village 9, Tan Thach Commune, Chau Thanh District, Ben Tre Province",
+        "address_full_en": "Village 9, Tan Thach Commune, Chau Thanh District, Ben Tre Province",
+        "address_province": "Ben Tre Province",
+        "address_street": "Village 9",
+        "auditing_company": [
+            "Auditing and Informatic Services Company",
+            "Address: 142 Nguyen Thi Minh Khai Street - District 3",
+            "Tel: (84.8) 9 305 163 (10 lines) - Fax: (84.8) 9 304 28",
+            "Website: http://www.aisc.com.vn - Email: aisc@aisc.com.vn"
+        ],
+        "business": "Food processing",
+        "business_registration": {
+            "business_license": "553000010  12-25-2003   Department of Planning and Investment of Ben Tre Province",
+            "established_license": "3423/QD-UB  12-01-2003  Ben Tre Province People's Committee"
+        },
+        "business_summary": "Processing and exporting aquatic products; breeding aquatic products; importing materials and commodities; trading; operating restaurants; providing services; and other business scopes decided by the Board of Directors and in line with the laws",
+        "business_summary_en": "Processing and exporting aquatic products; breeding aquatic products; importing materials and commodities; trading; operating restaurants; providing services; and other business scopes decided by the Board of Directors and in line with the laws",
+        "contact_email": "aquatex@hcm.vnn.vn",
+        "contact_phone": [
+            "(84.75) 860 265",
+            "(84.75)860 346"
+        ],
+        "contact_website": "www.aquatexbentre.com",
+        "crawled_at": "Mon, 10 Sep 2018 13:43:40 GMT",
+        "created_at": "Sun, 09 Sep 2018 16:04:26 GMT",
+        "financial_summary": {
+            "capital_currency": "VND",
+            "equity": "0",
+            "initial_listed_price": "90000",
+            "listed_date": "12-25-2006",
+            "listing_volume": "3300000",
+            "market_cap": "81000000000",
+            "par_value": "10000"
+        },
+        "listing_bourse": "HOSE",
+        "market_cap": "81000000000",
+        "name": "BEN TRE AQUAPRODUCT IMPORT AND EXPORT JSC",
+        "ticker_symbol": "ABT",
+        "uid": "http://stock.vietnammarkets.com/food-processing/ABT/",
+        "updated_at": "Sun, 09 Sep 2018 16:04:26 GMT"
+    },
+    "message": "successful",
+    "status_code": 200
+}

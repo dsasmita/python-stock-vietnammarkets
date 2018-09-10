@@ -1,0 +1,921 @@
+{
+    "count": 22,
+    "data": [
+        {
+            "address_city_district": "Chau Thanh District",
+            "address_country": "Vietnam",
+            "address_full": "Village 9, Tan Thach Commune, Chau Thanh District, Ben Tre Province",
+            "address_full_en": "Village 9, Tan Thach Commune, Chau Thanh District, Ben Tre Province",
+            "address_province": "Ben Tre Province",
+            "address_street": "Village 9",
+            "auditing_company": [
+                "Auditing and Informatic Services Company",
+                "Address: 142 Nguyen Thi Minh Khai Street - District 3",
+                "Tel: (84.8) 9 305 163 (10 lines) - Fax: (84.8) 9 304 28",
+                "Website: http://www.aisc.com.vn - Email: aisc@aisc.com.vn"
+            ],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "553000010  12-25-2003   Department of Planning and Investment of Ben Tre Province",
+                "established_license": "3423/QD-UB  12-01-2003  Ben Tre Province People's Committee"
+            },
+            "business_summary": "Processing and exporting aquatic products; breeding aquatic products; importing materials and commodities; trading; operating restaurants; providing services; and other business scopes decided by the Board of Directors and in line with the laws",
+            "business_summary_en": "Processing and exporting aquatic products; breeding aquatic products; importing materials and commodities; trading; operating restaurants; providing services; and other business scopes decided by the Board of Directors and in line with the laws",
+            "contact_email": "aquatex@hcm.vnn.vn",
+            "contact_phone": [
+                "(84.75) 860 265",
+                "(84.75)860 346"
+            ],
+            "contact_website": "www.aquatexbentre.com",
+            "crawled_at": "Mon, 10 Sep 2018 13:43:40 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:26 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "90000",
+                "listed_date": "12-25-2006",
+                "listing_volume": "3300000",
+                "market_cap": "81000000000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "81000000000",
+            "name": "BEN TRE AQUAPRODUCT IMPORT AND EXPORT JSC",
+            "ticker_symbol": "ABT",
+            "uid": "http://stock.vietnammarkets.com/food-processing/ABT/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:26 GMT"
+        },
+        {
+            "address_city_district": "Ho Chi Minh City",
+            "address_country": "Vietnam",
+            "address_full": "90 HÃ¹ng VÆ°Æ¡ng, KhÃ³m Má»¹ Thá», P. Má»¹ QuÃ½, Tp. Long XuyÃªn, Tá»nh An Giang",
+            "address_full_en": "90 Ho Chi Minh City, Ho Chi Minh City, Long Xuyen, An Giang province",
+            "address_province": "An Giang province",
+            "address_street": "90 Ho Chi Minh City",
+            "auditing_company": [
+                "CÃ´ng ty TNHH Kiá»m toÃ¡n vÃ  TÆ° váº¥n (A&amp;C)",
+                "Äá»a chá»: 229 Äá»ng Khá»i - Q.1 - TP. Há» ChÃ­ Minh",
+                "Äiá»n thoáº¡i:\t(84-8) 8272295 - Fax: (84-8) 8272300"
+            ],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "5203000065  04-17-2007   Sá» Káº¿ hoáº¡ch vÃ  Äáº§u tÆ° Tá»nh An Giang",
+                "established_license": "00-00-0000"
+            },
+            "business_summary": "- Cháº¿ biáº¿n, báº£o quáº£n thá»§y sáº£n vÃ  sáº£n pháº©m tá»« thá»§y sáº£n;- Mua bÃ¡n cÃ¡ vÃ  thá»§y sáº£n;- Mua bÃ¡n hÃ³a cháº¥t, dá»¥ng cá»¥ dÃ¹ng trong sáº£n xuáº¥t vÃ  cháº¿ biáº¿n thá»§y sáº£n;- NuÃ´i trá»ng thá»§y sáº£n;- Mua bÃ¡n nÃ´ng sáº£n (náº¿p, gáº¡o, háº¡t Äiá»u...);- Mua bÃ¡n thá»±c pháº©m (Äáº­u nÃ nh, Äáº­u báº¯p, rau quáº£,... ÄÃ´ng láº¡nh);- Sáº£n xuáº¥t bao bÃ¬;- Mua bÃ¡n cÃ¡c loáº¡i nguyÃªn váº­t tÆ° trong ngÃ nh bao bÃ¬;- Cháº¿ biáº¿n thá»©c Än thá»§y sáº£n;- Mua bÃ¡n nguyÃªn liá»u, váº­t tÆ° phá»¥c vá»¥ chÄn nuÃ´i thá»§y sáº£n (cÃ¡m bÃ£ Äáº­u nÃ nh, bá»t cÃ¡, bá»t xÆ°Æ¡ng thá»t, vitamin);- Äáº§u tÆ° cÆ¡ sá» háº¡ táº§ng khu cÃ´ng nghiá»p, khu du lá»ch, khÃ¡ch sáº¡n, cao á»c vÄn phÃ²ng;- Cháº¿ biáº¿n thá»©c Än gia sÃºc.",
+            "business_summary_en": "- Please read, understand and agree to the terms of use. - Buy bikes and bikes. - Buy, sell, buy, sell, buy, sell, - Buy - Buy (buy, sell, buy, sell, buy ...) - Buy Nutraceuticals, antipyretic, antipyretic, antipyretic, antipyretic, antipyretic, antipyretic, antipyretic, antipyretic, - Buy a bag of strawberries in a bag - Buy a beef bag - Buy You are welcome to come and enjoy your stay with us. (? vitamin supplements, vitamins); - nutritional supplements; the area, the area, the park, the height of the mountains; - the beauty of nature; C.",
+            "contact_email": "clfish@vnn.vn",
+            "contact_phone": [
+                "(84-76) 931000 - 932821",
+                "(84-76) 932446 - 932099"
+            ],
+            "contact_website": "http://www.clfish.com",
+            "crawled_at": "Mon, 10 Sep 2018 13:43:44 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:26 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "81000",
+                "listed_date": "09-05-2007",
+                "listing_volume": "9000000",
+                "market_cap": "11000000000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "11000000000",
+            "name": "CUU LONG FISH JOINT STOCK COMPANY",
+            "ticker_symbol": "ACL",
+            "uid": "http://stock.vietnammarkets.com/food-processing/ACL/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:26 GMT"
+        },
+        {
+            "address_city_district": "Long Xuyen City",
+            "address_country": "Vietnam",
+            "address_full": "1234 Tran Hung Dao Street, Binh Duc Ward, Long Xuyen City, An Giang Province",
+            "address_full_en": "1234 Tran Hung Dao Street, Binh Duc Ward, Long Xuyen City, An Giang Province",
+            "address_province": "An Giang Province",
+            "address_street": "1234 Tran Hung Dao Street",
+            "auditing_company": [
+                "Saigon Auditing and Accounting Financial Consultancy Company",
+                "Address: 138 Nguyen Thi Minh Khai Street, District 3, HCM City",
+                "Tel: (84-8) 930 3437 - Fax: (84-8) 930 3365"
+            ],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "5203000009  08-10-2001   Department of Planning and Investment of An Giang Province",
+                "established_license": "792/QD - TTg  06-28-2001  Prime Minister"
+            },
+            "business_summary": "Manufacturing, trading, processing and exporting frozen seafood and aquatic products, farm produce, foods and farming materials",
+            "business_summary_en": "Manufacturing, trading, processing and exporting frozen seafood and aquatic products, farm produce, foods and farming materials",
+            "contact_email": "agifishagg@hcm.vnn.vn",
+            "contact_phone": [
+                "(84.76) 852 939 - 852 368 - 852 783",
+                "(84.76) 852 202"
+            ],
+            "contact_website": "www.agifish.com",
+            "crawled_at": "Mon, 10 Sep 2018 13:43:45 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:26 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "30000",
+                "listed_date": "05-02-2002",
+                "listing_volume": "7887578",
+                "market_cap": "130000000000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "130000000000",
+            "name": "AN GIANG FISHERIES IMPORT & EXPORT JOINT STOCK COMPANY",
+            "ticker_symbol": "AGF",
+            "uid": "http://stock.vietnammarkets.com/food-processing/AGF/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:26 GMT"
+        },
+        {
+            "address_city_district": "",
+            "address_country": "Vietnam",
+            "address_full": "Bien Hoa Industrial Park 1, Dong Nai Province",
+            "address_full_en": "",
+            "address_province": "",
+            "address_street": "Bien Hoa Industrial Park 1, Dong Nai Province",
+            "auditing_company": [
+                "Vietnam Auditing Company (VACO)",
+                "Address: 9A Pham Ngoc Thach Street, Dong Da District, Hanoi",
+                "Tel:\t84.4.8522104 - Fax: 84.4.8524119",
+                "HCM City branch",
+                "Address: Suite 1104-1105, Floor 11, Saigon Commercial Center - 37 Ton Duc Thang Street, District 1, Ho Chi Minh City",
+                "Tel: 84.8.9100751 - Fax: 84.8.9100750"
+            ],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "059167  01-16-1999   Department of Planning and Investment of Dong Nai Province",
+                "established_license": "234/1998/QD-TTg  12-01-1998  Prime Minister"
+            },
+            "business_summary": "- Manufacturing and trading cakes and cookies in Vietnam and other countries.- Exporting cakes and cookies and other commodities.- Importing equipment, technology and material for the company's operations.",
+            "business_summary_en": "- Manufacturing and trading cakes and cookies in Vietnam and other countries.- Exporting cakes and cookies and other commodities.- Importing equipment, technology and material for the company's operations.",
+            "contact_email": "bibica@hcm.vnn.vn",
+            "contact_phone": [
+                "(061) 836 576 - 836 240",
+                "(061) 836 950"
+            ],
+            "contact_website": "www.bibica.com.vn",
+            "crawled_at": "Mon, 10 Sep 2018 13:43:50 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:26 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "27000",
+                "listed_date": "12-17-2001",
+                "listing_volume": "10161700",
+                "market_cap": "189542740000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "189542740000",
+            "name": "BIBICA CORPORATION",
+            "ticker_symbol": "BBC",
+            "uid": "http://stock.vietnammarkets.com/food-processing/BBC/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:26 GMT"
+        },
+        {
+            "address_city_district": "Bien Hoa City",
+            "address_country": "Vietnam",
+            "address_full": "Bien Hoa Industrial Park 1, An Binh Ward, Bien Hoa City, Dong Nai Province",
+            "address_full_en": "Bien Hoa Industrial Park 1, An Binh Ward, Bien Hoa City, Dong Nai Province",
+            "address_province": "Dong Nai Province",
+            "address_street": "Bien Hoa Industrial Park 1",
+            "auditing_company": [
+                "Auditing and Accounting Financial Consultancy Service Company (AASC)  - HCM City Branch",
+                "Office: 29 Vo Thi Sau Street, District 1, HCM City",
+                "Tel: (08) 8.205.944 - Fax: 8.205.942"
+            ],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "4703000014  05-16-2001   Department of Planning and Investment of Dong Nai Province",
+                "established_license": "44/2001/QD-TTg  03-27-2001  Prime Minister"
+            },
+            "business_summary": "- Manufacturing and trading sugar products, sugared products and products from by-products of sugar industry  - Trading sugar equipment, machinery and materials.- Repairing, maintaining and installing equipment for sugar industry. - Building constructional and industrial projects.- Forwarding farming produce, technological products, materials for sugar industry.- Transportation- Catering services- Leasing warehouses- Manufacturing and trading wines",
+            "business_summary_en": "- Manufacturing and trading sugar products, sugared products and products from by-products of sugar industry  - Trading sugar equipment, machinery and materials.- Repairing, maintaining and installing equipment for sugar industry. - Building constructional and industrial projects.- Forwarding farming produce, technological products, materials for sugar industry.- Transportation- Catering services- Leasing warehouses- Manufacturing and trading wines",
+            "contact_email": "bsc@hcm.vnn.vn",
+            "contact_phone": [
+                "(061) 3 836 199",
+                "(061) 3 836 213"
+            ],
+            "contact_website": "http://www.bienhoasugar.com.vn",
+            "crawled_at": "Mon, 10 Sep 2018 13:43:56 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:26 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "60000",
+                "listed_date": "12-20-2006",
+                "listing_volume": "16200000",
+                "market_cap": "168477270000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "168477270000",
+            "name": "BEN HOA SUGAR JOINT STOCK COMPANY",
+            "ticker_symbol": "BHS",
+            "uid": "http://stock.vietnammarkets.com/food-processing/BHS/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:26 GMT"
+        },
+        {
+            "address_city_district": "Ho Chi Minh City. Thank you",
+            "address_country": "Vietnam",
+            "address_full": "43 LÃª Lai, Q. NgÃ´ Quyá»n, TP. Háº£i PhÃ²ng",
+            "address_full_en": "43 Le Lai Street, District 1, Ho Chi Minh City. Thank you",
+            "address_province": "",
+            "address_street": "43 Le Lai Street",
+            "auditing_company": [
+                "CÃ´ng ty dá»ch vá»¥ TÆ° Váº¥n TÃ i ChÃ­nh vÃ  Kiá»m ToÃ¡n - AASC"
+            ],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "55595  03-05-1999   do Sá» Káº¿ hoáº¡ch vÃ  Äáº§u tÆ°",
+                "established_license": "256/1998/QÄ-TTg  12-31-1998  do Thá»§ TÆ°á»ng cáº¥p"
+            },
+            "business_summary": "Sáº£n xuáº¥t cÃ¡c sáº£n pháº©m thá»±c pháº©m ÄÃ³ng há»p. Sáº£n xuáº¥t, cháº¿ biáº¿n cÃ¡c máº·t hÃ ng thá»§y sáº£n, nÃ´ng sáº£n, thá»±c pháº©m.Sáº£n xuáº¥t cÃ¡c cháº¿ pháº©m tá»« rong biá»n, cÃ¡c cháº¿ pháº©m Äáº·t biá»t cÃ³ nguá»n gá»c tá»± nhiÃªn nhÆ° dáº§u cÃ¡.Sáº£n xuáº¥t kinh doanh cÃ¡c sáº£n pháº©m thá»±c pháº©m cháº¿ biáº¿n, thá»±c pháº©m tÆ°Æ¡i sá»ng, thá»±c pháº©m Äáº·c sáº£n, thá»©cÄn nhanh vÃ  cÃ¡c sáº£n pháº©m thá»©c Än chÄn nuÃ´i.Kinh doanh XNK trá»±c tiáº¿p (Xuáº¥t: thá»§y, háº£i sáº£n, sÃºc sáº£n ÄÃ´ng láº¡nh; thá»±c pháº©m ÄÃ³ng há»p, hÃ ng cÃ´ng nghá» pháº©m - Nháº­p: cÃ¡c thiáº¿t bá», váº­t tÆ° nguyÃªn liá»u, hoÃ¡ cháº¥t, cÃ´ng nghá» pháº©m phá»¥c vá»¥ SXKD.LiÃªn doanh, cho thuÃª máº·t báº±ng, kinh doanh dá»ch vá»¥ tá»ng há»£p khÃ¡c.",
+            "business_summary_en": "Meet the winners of the break-up to win the championship. Come and enjoy the beauty of nature, beauty, beauty, beauty, and beauty. You can break the law, and you can break the law by combining Get your business up and running! Businesses are breaking the law, breaking the rules healthy eating, healthy eating, fast food, and healthy eating. chau nuo.i.Introduction of import-export business (Declared: good, good, good quality, Phá phá Ä,,,,,, ng phá phá - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -. u, or t t t,, 'ng ngh phá v v v v v......... » khA¡c.",
+            "contact_email": "dohophalong@hn.vnn.vn",
+            "contact_phone": [
+                "(031) 836 692",
+                "(031) 836 155"
+            ],
+            "contact_website": "www.halongcanfoodco.vnn.vn",
+            "crawled_at": "Mon, 10 Sep 2018 13:44:14 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:26 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "27100",
+                "listed_date": "10-18-2001",
+                "listing_volume": "3500000",
+                "market_cap": "50000000000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "50000000000",
+            "name": "HA LONG CANNED FOOD JOINT STOCK COMPANY",
+            "ticker_symbol": "CAN",
+            "uid": "http://stock.vietnammarkets.com/food-processing/CAN/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:26 GMT"
+        },
+        {
+            "address_city_district": "",
+            "address_country": "Vietnam",
+            "address_full": "Km 2132, Quá»c lá» 1A, PhÆ°á»ng 2, Thá» xÃ£ SÃ³c TrÄng, Tá»nh SÃ³c TrÄng",
+            "address_full_en": "Km 2132, Too Far? » 1A, 2A, Soybean Oil, Soybean Oil",
+            "address_province": "",
+            "address_street": "Km 2132",
+            "auditing_company": [],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "00-00-0000",
+                "established_license": "00-00-0000"
+            },
+            "business_summary": "",
+            "business_summary_en": "",
+            "contact_email": "fimexvn@hcm.vnn.vn",
+            "contact_phone": [
+                "84.79. 822203",
+                "84.79.822122"
+            ],
+            "contact_website": "www.fimexvn.com",
+            "crawled_at": "Mon, 10 Sep 2018 13:45:05 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:27 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "36300",
+                "listed_date": "12-07-2006",
+                "listing_volume": "6000000",
+                "market_cap": "69000000000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "69000000000",
+            "name": "SAO TA FOODS JOINT STOCK COMPANY",
+            "ticker_symbol": "FMC",
+            "uid": "http://stock.vietnammarkets.com/food-processing/FMC/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:27 GMT"
+        },
+        {
+            "address_city_district": "Mê Linh district",
+            "address_country": "Vietnam",
+            "address_full": "Km9, ÄÆ°á»ng Báº¯c ThÄng Long Ná»i BÃ i, Khu CÃ´ng nghiá»p Quang Minh, xÃ£ Quang Minh, thÃ´ng Gia Trung, huyá»n MÃª Linh, tá»nh VÄ©nh PhÃºc",
+            "address_full_en": "Km9, Thang Long Road, Quang Minh, Quang Minh, Gia Trung. , Mê Linh district, VÄ ... nh Phac",
+            "address_province": "",
+            "address_street": "Km9",
+            "auditing_company": [
+                "CÃ´ng ty Há»£p danh Kiá»m toÃ¡n TÃ i chÃ­nh Äáº§u tÆ° Viá»t Nam",
+                "Äá»a chá»: PhÃ²ng 608 24-T1 Trung HoÃ  - NhÃ¢n ChÃ­nh - Quáº­n Cáº§u Giáº¥y - HÃ  Ná»i",
+                "Äiá»n thoáº¡i: (84-4) 2512273 - Fax: (84-4) 2512274",
+                "Email: VAFICO-hn@vafico.com"
+            ],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "1903000210  05-05-2006   Sá» Káº¿ hoáº¡ch vÃ  Äáº§u tÆ° Tá»nh VÄ©nh PhÃºc",
+                "established_license": "00-00-0000"
+            },
+            "business_summary": "- Sáº£n xuáº¥t vÃ  buÃ´n bÃ¡n: sá»¯a bÃ², sá»¯a Äáº­u nÃ nh; - CÃ¡c sáº£n pháº©m tá»« sá»¯a; - Cháº¿ biáº¿n cÃ¡c sáº£n pháº©n nÃ´ng sáº£n thá»±c pháº©m, cÃ¡c loáº¡i nÆ°á»c uá»ng trÃ¡i cÃ¢y; - BuÃ´n bÃ¡n nguyÃªn liá»u, thiáº¿t bá» váº­t tÆ° vÃ  sáº£n pháº£m ngÃ nh sá»¯a, ngÃ nh cháº¿ biáº¿n thá»±c pháº©m; - TÆ° váº¥n Äáº§u tÆ° nÃ´ng, cÃ´ng nghiá»p; - XÃ¢y dá»±ng cÃ´ng trÃ¬nh dÃ¢n dá»¥ng, cÃ´ng nghiá»p; - Kinh doanh báº¥t Äá»ng sáº£n, khÃ¡ch sáº¡n, nhÃ  hÃ ng, siÃªu thá»; - Kinh doanh háº¡ táº§ng khu cÃ´ng nghiá»p; - Kinh doanh, nuÃ´i trá»ng cháº¿ biáº¿n thá»§y sáº£n; - ÄÃ o táº¡o cÃ´ng nhÃ¢n ká»¹ thuáº­t há» trung há»c vÃ  cao Äáº³ng;- Mua bÃ¡n xuáº¥t nháº­p kháº©u Äá» dÃ¹ng cÃ¡ nhÃ¢n vÃ  gia ÄÃ¬nh, váº­t pháº©m quáº£ng cÃ¡o, tranh áº£nh, Äá» chÆ¡i (trá»« Äá» chÆ¡i cÃ³ háº¡i cho giÃ¡o dá»¥c nhÃ¢n cÃ¡ch, sá»©c khá»e cá»§a tráº» em hoáº·c áº£nh hÆ°á»ng tá»i an ninh, tráº­t tá»± an toÃ n xÃ£ há»i). MÃ¡y mÃ³c thiáº¿t bá» vÄn phÃ²ng, vÄn phÃ²ng pháº©m; - Äáº¡i lÃ½ mua, Äáº¡i lÃ½ bÃ¡n, kÃ½ gá»­i hÃ ng hÃ³a.",
+            "business_summary_en": "- Salads and salads: sandwiches, salads; - break up a lot; - I do not want to ruin my life, I want you to break my heart cÃ ¢ y; - BuiNn lÃ¡n, Ã? Â? have a good night's sleep, and have a good night's sleep; - Be careful of the weather, be careful; - a simple, easy-to-use, easy-to-use interface; - Sales of products, services, products, and services; - Do business in the area; - Business, if you are good at business; - Do you want to be a teacher? Medium and high - Buy low to moderate? Do you want to live in harmony with nature, fight over, fight, fight? You can play games for free, »I am a security guard, I'm a security officer. Can you believe me? to do, to destroy; - mua mua mua mua mua mua mua, b b,,,,,,,,,,,,.",
+            "contact_email": "info@hanoimilk.com",
+            "contact_phone": [
+                "(84-4) 8866567/63",
+                "(84-4) 8866564"
+            ],
+            "contact_website": "http://www.izzi.com.vn",
+            "crawled_at": "Mon, 10 Sep 2018 13:45:35 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:27 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "0",
+                "listed_date": "12-27-2006",
+                "listing_volume": "70495000",
+                "market_cap": "70495000000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HASTC",
+            "market_cap": "70495000000",
+            "name": "HANOIMILK JOINT STOCK COMPANY",
+            "ticker_symbol": "HNM",
+            "uid": "http://stock.vietnammarkets.com/food-processing/HNM/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:27 GMT"
+        },
+        {
+            "address_city_district": "HCM City",
+            "address_country": "Vietnam",
+            "address_full": "Lot A77/I, Road 7, Vinh Loc Industrial Park, Binh Tan District, HCM City",
+            "address_full_en": "Lot A77/I, Road 7, Vinh Loc Industrial Park, Binh Tan District, HCM City",
+            "address_province": "",
+            "address_street": "Lot A77/I",
+            "auditing_company": [
+                "Auditing and Informatics Service Company (AISC)",
+                "Address: 142 Nguyen Thi Minh Khai Street - District 3",
+                "Tel: (84.8) 9 305 163 (10 lines) - Fax: (84.8) 9 304 28",
+                "Website: http://www.aisc.com.vn - Email: aisc@aisc.com.vn"
+            ],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "064100  09-01-1999   HCM City Planning and Investment Department",
+                "established_license": "00-00-0000"
+            },
+            "business_summary": "- Breeding aquatic products; - Processing and preserving aquatic products; - Providing aquatic-related services: Collecting and shipping fresh aquatic products, providing aquatic foods, breeding fish and shrimp stocks, processing aquatic products on ships, providing ice for preserving aquatic products;- Processing and preserving meat products;- Processing and preserving vegetables;- Producing starch;- Producing foods and drinks;- Producing pure water and mineral water;- Producing ice;- Building industrial, civil and traffic works;- Operating restaurants;- Trading and leasing houses, workshops, offices, warehouses;- Forwarding and consigning commodities;-Others.",
+            "business_summary_en": "- Breeding aquatic products; - Processing and preserving aquatic products; - Providing aquatic-related services: Collecting and shipping fresh aquatic products, providing aquatic foods, breeding fish and shrimp stocks, processing aquatic products on ships, providing ice for preserving aquatic products;- Processing and preserving meat products;- Processing and preserving vegetables;- Producing starch;- Producing foods and drinks;- Producing pure water and mineral water;- Producing ice;- Building industrial, civil and traffic works;- Operating restaurants;- Trading and leasing houses, workshops, offices, warehouses;- Forwarding and consigning commodities;-Others.",
+            "contact_email": "",
+            "contact_phone": [
+                "(84-8) 765 3145",
+                "(84-8) 765 2162 â (84-8) 765 3"
+            ],
+            "contact_website": "",
+            "crawled_at": "Mon, 10 Sep 2018 13:45:49 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:27 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "0",
+                "listed_date": "12-20-2006",
+                "listing_volume": "118000000",
+                "market_cap": "118000000000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HASTC",
+            "market_cap": "118000000000",
+            "name": "INVESTMENT COMMERCE FISHERIES CORPORATION",
+            "ticker_symbol": "ICF",
+            "uid": "http://stock.vietnammarkets.com/food-processing/ICF/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:27 GMT"
+        },
+        {
+            "address_city_district": "Long Thanh District",
+            "address_country": "Vietnam",
+            "address_full": "Block 13, Tam Phuoc Industrial Park, Long Thanh District, Dong Nai Province",
+            "address_full_en": "Block 13, Tam Phuoc Industrial Park, Long Thanh District, Dong Nai Province",
+            "address_province": "Dong Nai Province",
+            "address_street": "Block 13",
+            "auditing_company": [
+                "PricewaterhouseCoopers Vietnam Ltd",
+                "Address: Floor 4, Saigon Tower, 29 Le Duan Street, District 1, Ho Chi Minh City",
+                "Tel: (84.8) 8230 796 - Fax: (84.8) 8251 947"
+            ],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "270 CPH/GCNDC3-BKH  08-23-2006   Ministry of Planning and Investment",
+                "established_license": "00-00-0000"
+            },
+            "business_summary": "- Processing canned, dried, frozen and salted seafood and farming produce;- Manufacturing cakes and snacks;- Manufacturing soda fruit juices, purified water;- Manufacturing bottles.",
+            "business_summary_en": "- Processing canned, dried, frozen and salted seafood and farming produce;- Manufacturing cakes and snacks;- Manufacturing soda fruit juices, purified water;- Manufacturing bottles.",
+            "contact_email": "ifpi@hcm.vnn.vn",
+            "contact_phone": [
+                "84.61. 3511138",
+                "84.61.3513498"
+            ],
+            "contact_website": "www.wonderfarmonline.com",
+            "crawled_at": "Mon, 10 Sep 2018 13:45:50 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:27 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "50000",
+                "listed_date": "10-17-2006",
+                "listing_volume": "24284160",
+                "market_cap": "242841600000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "242841600000",
+            "name": "INTERFOOD SHAREHOLDING CO.",
+            "ticker_symbol": "IFS",
+            "uid": "http://stock.vietnammarkets.com/food-processing/IFS/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:27 GMT"
+        },
+        {
+            "address_city_district": "HCM City",
+            "address_country": "Vietnam",
+            "address_full": "6/134 National Road 13, Hiep Binh Phuoc Ward, Thu Duc District, HCM City",
+            "address_full_en": "6/134 National Road 13, Hiep Binh Phuoc Ward, Thu Duc District, HCM City",
+            "address_province": "",
+            "address_street": "6/134 National Road 13",
+            "auditing_company": [
+                "Auditing and Accounting Financial Consultancy Service Company (AASC) - Ho Chi Minh City Branch",
+                "Address: 29 Vo Thi Sau Street, District 1, Ho Chi Minh City",
+                "Tel: (84-8) 8205944 - 8205947 - Fax: (84-8) 8205942",
+                "Email: aasc-ndd@hn.vnn.vn",
+                "Website: http://www.aasc.com.vn"
+            ],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "4103001184  09-06-2002   HCM City Department of Planning and Investment",
+                "established_license": "216 GP-UB  02-27-1993  HCM City People's Committee"
+            },
+            "business_summary": "- Processing farming produce;- Manufacturing purified water and fruit juice;- Trading agricultural foods, technological products, fibers, cloth, apparels, footwear, bags, watches, glasses, cosmetics, mechanical products, handicrafts, school equipment, stationery, photographic materials and fresh vegetables- Providing commercial services;- Trading and consigning goods;- Providing advertisement services",
+            "business_summary_en": "- Processing farming produce;- Manufacturing purified water and fruit juice;- Trading agricultural foods, technological products, fibers, cloth, apparels, footwear, bags, watches, glasses, cosmetics, mechanical products, handicrafts, school equipment, stationery, photographic materials and fresh vegetables- Providing commercial services;- Trading and consigning goods;- Providing advertisement services",
+            "contact_email": "kido.co@kinhdofood.com",
+            "contact_phone": [
+                "84.8.7269474",
+                "84.8.7269472"
+            ],
+            "contact_website": "www.kinhdofood.com",
+            "crawled_at": "Mon, 10 Sep 2018 13:45:58 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:27 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "59000",
+                "listed_date": "12-12-2005",
+                "listing_volume": "29999980",
+                "market_cap": "299999800000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "299999800000",
+            "name": "KINH DO CORPORATION",
+            "ticker_symbol": "KDC",
+            "uid": "http://stock.vietnammarkets.com/food-processing/KDC/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:27 GMT"
+        },
+        {
+            "address_city_district": "",
+            "address_country": "Vietnam",
+            "address_full": "81B, Quá»c lá» 62, PhÆ°á»ng 2, thá» xÃ£ TÃ¢n An, tá»nh Long An",
+            "address_full_en": "81B, too »?? 62, Season 2, TÃ ¢ n An, Long An Province",
+            "address_province": "Long An Province",
+            "address_street": "81B",
+            "auditing_company": [
+                "Äá» Trá»ng Hiá»p quáº£n lÃ½"
+            ],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "059380  07-12-1995   do UB Káº¿ Hoáº¡ch  tá»nh Long An",
+                "established_license": "0033802  07-01-1995  do UBND tá»nh Long An"
+            },
+            "business_summary": "Tá» chá»©c kinh doanh cÃ¡c máº·t hÃ ng nÃ´ng sáº£n, háº£i sáº£n, sÃºc sáº£n, gia cáº§m.Xuáº¥t kháº©u trá»±c tiáº¿p cÃ¡c máº·t hÃ ng do ÄÆ¡n vá» thu mua cháº¿ biáº¿nNháº­p kháº©u cÃ¡c loáº¡i nguyÃªn váº­t liá»u, nhiÃªn liá»u, bao bÃ¬ phá»¥c vá»¥ cho sáº£n xuáº¥t kinh doanh cá»§a cÃ´ng tyNháº­p á»§y thÃ¡c xuáº¥t kháº©u, nháº­p kháº©u cho cÃ¡c ÄÆ¡n vá» kinh táº¿ theo qui Äá»nh cá»§a Bá» ThÆ°Æ¡ng Máº¡i.Äáº§u tÆ° khai thÃ¡c cháº¿ biáº¿n, liÃªn káº¿t liÃªn doanh vá»i cÃ¡c Äá»i tÃ¡c trong vÃ  ngoÃ i nÆ°á»c trong viá»c sáº£n xuáº¥t kinh doanh vÃ  dá»ch vá»¥ hÃ ng nÃ´ng, háº£i, sÃºc sáº£n gia cáº§m.",
+            "business_summary_en": "Dozen\"?? business, business, health, business, health, health. the mother and father? Buy, sell, buy, sell, buy, sell, buy, sell, It is a good company to grow well, quite good for the plant and the environment. Business in accordance with the law. Maejo University, the trade association, the trade association and the You and your partner are in business and working with you, your family, your health, your health and your health. fishing.",
+            "contact_email": "",
+            "contact_phone": [
+                "(072) 823 900 - 829 637",
+                "(072) 826 735"
+            ],
+            "contact_website": "",
+            "crawled_at": "Mon, 10 Sep 2018 13:46:06 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:27 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "17000",
+                "listed_date": "12-15-2000",
+                "listing_volume": "3819680",
+                "market_cap": "38196800000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "38196800000",
+            "name": "LONG AN FOOD PROCESSING & EXPORT JOINT STOCK COMPANY",
+            "ticker_symbol": "LAF",
+            "uid": "http://stock.vietnammarkets.com/food-processing/LAF/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:27 GMT"
+        },
+        {
+            "address_city_district": "Ca Mau City",
+            "address_country": "Vietnam",
+            "address_full": "Ward 8 Industrial Park, Ca Mau City, Ca Mau Province",
+            "address_full_en": "Ward 8 Industrial Park, Ca Mau City, Ca Mau Province",
+            "address_province": "Ca Mau Province",
+            "address_street": "Ward 8 Industrial Park",
+            "auditing_company": [
+                "Auditing and Consulting Company Joint Stock Company (A&amp;C)",
+                "Headquarters: 229 Dong Khoi Street, District 1, HCM City",
+                "Tel: (08) 8 272 295 - Fax: (08) 8 272 300",
+                "Branch : 877 Hong Ha Street, Hoan Kiem District, Hanoi",
+                "Äiá»n thoáº¡i: (04) 9 324 133 - Fax: (04) 9 324 113"
+            ],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "6103000072  05-12-2006   Planning and Investment Department of Ca Mau Province",
+                "established_license": "00-00-0000"
+            },
+            "business_summary": "- Processing and exporting aquatic products.- Importing materials and accessories for domestic production.- Importing machines and equipment for export-oriented production.- Trading real estate, developing infrastructure and building civil and industrial works.",
+            "business_summary_en": "- Processing and exporting aquatic products.- Importing materials and accessories for domestic production.- Importing machines and equipment for export-oriented production.- Trading real estate, developing infrastructure and building civil and industrial works.",
+            "contact_email": "minhphu@minhphu.com",
+            "contact_phone": [
+                "(84-780)20044",
+                "(84-780) 833119"
+            ],
+            "contact_website": "www.minhphu.com",
+            "crawled_at": "Mon, 10 Sep 2018 13:46:21 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:27 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "0",
+                "listed_date": "12-27-2006",
+                "listing_volume": "600000000000",
+                "market_cap": "600000000000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HASTC",
+            "market_cap": "600000000000",
+            "name": "MINH PHU SEAFOOD JOINT STOCK COMPANY",
+            "ticker_symbol": "MPC",
+            "uid": "http://stock.vietnammarkets.com/food-processing/MPC/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:27 GMT"
+        },
+        {
+            "address_city_district": "My Hao District",
+            "address_country": "Vietnam",
+            "address_full": "Km 22, National Road 5, Ban Nhan Yen Town, My Hao District, Hung Yen Province",
+            "address_full_en": "Km 22, National Road 5, Ban Nhan Yen Town, My Hao District, Hung Yen Province",
+            "address_province": "Hung Yen Province",
+            "address_street": "Km 22",
+            "auditing_company": [],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "00-00-0000",
+                "established_license": "00-00-0000"
+            },
+            "business_summary": "Manufacturing breads, crackers, moon cakes, chocolate candies",
+            "business_summary_en": "Manufacturing breads, crackers, moon cakes, chocolate candies",
+            "contact_email": "pmsckd@hcm.fpt.vn",
+            "contact_phone": [
+                "84.321.942128",
+                "84.321.943146"
+            ],
+            "contact_website": "www.kinhdofood.com",
+            "crawled_at": "Mon, 10 Sep 2018 13:46:28 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:27 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "27000",
+                "listed_date": "12-15-2004",
+                "listing_volume": "7000000",
+                "market_cap": "70000000000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "70000000000",
+            "name": "NORTH KINH DO FOOD JOINT STOCK COMPANY",
+            "ticker_symbol": "NKD",
+            "uid": "http://stock.vietnammarkets.com/food-processing/NKD/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:27 GMT"
+        },
+        {
+            "address_city_district": "",
+            "address_country": "Vietnam",
+            "address_full": "",
+            "address_full_en": "",
+            "address_province": "",
+            "address_street": "",
+            "auditing_company": [],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "00-00-0000",
+                "established_license": "00-00-0000"
+            },
+            "business_summary": "",
+            "business_summary_en": "",
+            "contact_email": "NationalSeed@.vnn.vn",
+            "contact_phone": [
+                "(84.04) 8.523.294",
+                "(84.04) 8.527.996"
+            ],
+            "contact_website": "",
+            "crawled_at": "Mon, 10 Sep 2018 13:46:32 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:27 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "55000",
+                "listed_date": "12-21-2006",
+                "listing_volume": "3000000",
+                "market_cap": "30000000000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "30000000000",
+            "name": "NATIONAL SEED JOINT STOCK COMPANY",
+            "ticker_symbol": "NSC",
+            "uid": "http://stock.vietnammarkets.com/food-processing/NSC/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:27 GMT"
+        },
+        {
+            "address_city_district": "",
+            "address_country": "Vietnam",
+            "address_full": "Sá» 1 ÄÆ°á»ng 3/2, phÆ°á»ng 11, quáº­n 10, Tp.HCM",
+            "address_full_en": "Sipunculus\"?? 1 Æ Æ Æ ng ng ng,,,,,,,,,,,,,,",
+            "address_province": "",
+            "address_street": "Sipunculus\"?? 1 Æ Æ Æ ng ng ng",
+            "auditing_company": [],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "00-00-0000",
+                "established_license": "00-00-0000"
+            },
+            "business_summary": "",
+            "business_summary_en": "",
+            "contact_email": "safoco@hcm.vnn.vn",
+            "contact_phone": [
+                "(84-8) 8391613",
+                "(84-8) 8393676"
+            ],
+            "contact_website": "",
+            "crawled_at": "Mon, 10 Sep 2018 13:47:29 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:28 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "40000",
+                "listed_date": "12-28-2006",
+                "listing_volume": "2706000",
+                "market_cap": "27060000000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "27060000000",
+            "name": "SAFOCO FOODSTUFF JOINT STOCK COMPANY",
+            "ticker_symbol": "SAF",
+            "uid": "http://stock.vietnammarkets.com/food-processing/SAF/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:28 GMT"
+        },
+        {
+            "address_city_district": "",
+            "address_country": "Vietnam",
+            "address_full": "LÃ´ CII-3, ÄÆ°á»ng sá» 5, Khu cÃ´ng nghiá»p C, Äá»ng ThÃ¡p",
+            "address_full_en": "CII-3, Æ Æ? 5, C, C, and D areas",
+            "address_province": "",
+            "address_street": "CII-3",
+            "auditing_company": [],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "5103000027  07-02-2004   Sá» káº¿ hoáº¡ch Äáº§u tÆ° tá»nh Äá»ng ThÃ¡p",
+                "established_license": "Quyáº¿t Äá»nh 126/QÄTL  12-08-1992  UBND tá»nh Äá»ng ThÃ¡p"
+            },
+            "business_summary": "LÄ©nh vá»±c hoáº¡t Äá»ng cá»§a CÃ´ng ty gá»m: Sáº£n xuáº¥t vÃ  mua bÃ¡n thá»±c pháº©m: bÃ¡nh phá»ng tÃ´m, há»§ tiáº¿u, bÃ¡nh phá», Äu Äá»§ sáº¥y; mua bÃ¡n, cháº¿ biáº¿n, báº£o quáº£n thá»§y háº£i sáº£n vÃ  cÃ¡c sáº£n pháº©m tá»« thá»§y háº£i sáº£n; mua bÃ¡n, cháº¿ biáº¿n thá»t, má»¡ ÄÃ³ng gÃ³i vÃ  ÄÃ³ng há»p; sáº£n xuáº¥t mÃ¡y mÃ³c, thiáº¿t bá» phá»¥c vá»¥ sáº£n xuáº¥t, cháº¿ biáº¿n thá»±c pháº©m; cho thuÃª máº·t báº±ng",
+            "business_summary_en": "Deal with the company's products. Join the company and buy the product. : break, break, break, break, break; buy, sell, rent, sell, rent, for, rent, for, rent, for, rent, for, rent, for, rent, The buy, sell, buy and sell; Going to live, live? to break the rules, to break the rules; to the wall",
+            "contact_email": "sagiang@hcm.vnn.vn",
+            "contact_phone": [
+                "(84.67) - 763155",
+                "(84.67) - 763152"
+            ],
+            "contact_website": "",
+            "crawled_at": "Mon, 10 Sep 2018 13:48:00 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:28 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "55000",
+                "listed_date": "09-05-2006",
+                "listing_volume": "4088700",
+                "market_cap": "40887000000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "40887000000",
+            "name": "SAGIANG IMPORT AND EXPORT CORPORATION",
+            "ticker_symbol": "SGC",
+            "uid": "http://stock.vietnammarkets.com/food-processing/SGC/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:28 GMT"
+        },
+        {
+            "address_city_district": "Ho Chi Minh City",
+            "address_country": "Vietnam",
+            "address_full": "1004A Ãu CÆ¡, PhÆ°á»ng PhÃº Trung, Quáº­n TÃ¢n PhÃº, Tp.HCM",
+            "address_full_en": "1004A Tran Hung Dao Street, Hoan Kiem District, Ho Chi Minh City, Vietnam",
+            "address_province": "",
+            "address_street": "1004A Tran Hung Dao Street",
+            "auditing_company": [],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "00-00-0000",
+                "established_license": "00-00-0000"
+            },
+            "business_summary": "",
+            "business_summary_en": "",
+            "contact_email": "mathangmoi@hcm.vnn.vn",
+            "contact_phone": [
+                "(84-8) 974 1135 â 974 1136",
+                "(84-8) 864 3925"
+            ],
+            "contact_website": "www.seajocovietnam.com.vn",
+            "crawled_at": "Mon, 10 Sep 2018 13:48:08 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:28 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "34000",
+                "listed_date": "12-29-2006",
+                "listing_volume": "2000000",
+                "market_cap": "20000000000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "20000000000",
+            "name": "SEAFOOD JOINT STOCK COMPANY NO 1",
+            "ticker_symbol": "SJ1",
+            "uid": "http://stock.vietnammarkets.com/food-processing/SJ1/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:28 GMT"
+        },
+        {
+            "address_city_district": "Ho Chi Minh City. HCM",
+            "address_country": "Vietnam",
+            "address_full": "282 LÃª VÃ£n Sá»¹, P.1, Q. Tan Binh, TP. HCM",
+            "address_full_en": "282 Ly Thuong Kiet St., Ward 1, Tan Binh Dist., Ho Chi Minh City. HCM",
+            "address_province": "",
+            "address_street": "282 Ly Thuong Kiet St.",
+            "auditing_company": [],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "00-00-0000",
+                "established_license": "213/QÄ-TTg  03-25-2002  Thá»§ tÆ°á»ng ChÃ­nh phá»§"
+            },
+            "business_summary": "NgÃ nh nghá» kinh doanh chÃ­nh nhÆ°: NghiÃªn cá»©u, sáº£n xuáº¥t, kinh doanh, xuáº¥t nháº­p kháº©u giá»ng cÃ¢y trá»ng cÃ¡c loáº¡i; Sáº£n xuáº¥t, kinh doanh, xuáº¥t nháº­p kháº©u nÃ´ng sáº£n, váº­t tÆ° nÃ´ng nghiá»p; Thiáº¿t káº¿, cháº¿ táº¡o, láº¯p Äáº·t, xuáº¥t nháº­p kháº©u cÃ¡c loáº¡i mÃ¡y mÃ³c, thiáº¿t bá» cháº¿ biáº¿n háº¡t giá»ng vÃ  nÃ´ng sáº£n.Báº¡n Äá»c cÃ³ thá» xem thÃ´ng tin chi tiáº¿t vá» SSC vá»i 3 bÃ i sau:Má»t sá» nÃ©t chÃ­nh vá» CTCP Giá»ng cÃ¢y trá»ng Miá»n Nam( Pháº§n 1)Má»t sá» nÃ©t chÃ­nh vá» CTCP Giá»ng cÃ¢y trá»ng Miá»n Nam( Pháº§n 2)Má»t sá» nÃ©t chÃ­nh vá» CTCP Giá»ng cÃ¢y trá»ng Miá»n Nam( Pháº§n 3)",
+            "business_summary_en": "Music? Doing business in the first place: Trading, selling, trading, paying for real estate; Sales, sales, sales, sales, and sales; Play, play, play, play, play, play, play Do not miss the chance to win prizes and win prizes. See more information? SSC and the 3 following: how to make ?? Southern Steel Joint Stock Company (Part 1) how to make ?? Southern Steel Joint Stock Company (Part 2) how to make ?? Southern Steel Joint Stock Company (Quarter 3)",
+            "contact_email": "",
+            "contact_phone": [
+                "84.8. 8442414",
+                "84.8. 8442387"
+            ],
+            "contact_website": "www.ssc.com.vn",
+            "crawled_at": "Mon, 10 Sep 2018 13:48:19 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:28 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "30800",
+                "listed_date": "03-01-2005",
+                "listing_volume": "6000000",
+                "market_cap": "100000000000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "100000000000",
+            "name": "SOUTHERN SEED JOINT STOCK COMPANY",
+            "ticker_symbol": "SSC",
+            "uid": "http://stock.vietnammarkets.com/food-processing/SSC/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:28 GMT"
+        },
+        {
+            "address_city_district": "Ho Chi Minh City",
+            "address_country": "Vietnam",
+            "address_full": "48/5 Phan Huy Ã­ch, PhÆ°á»ng 15, Quáº­n TÃ¢n BÃ¬nh, Tp.HCM",
+            "address_full_en": "48/5 Phan Huy ƒch, Pho ° á »ng 15, Binh Thanh Dist., Ho Chi Minh City",
+            "address_province": "",
+            "address_street": "48/5 Phan Huy ƒch",
+            "auditing_company": [],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "00-00-0000",
+                "established_license": "00-00-0000"
+            },
+            "business_summary": "",
+            "business_summary_en": "",
+            "contact_email": "tuongan@tuongan.com.vn",
+            "contact_phone": [
+                "(84.8) 8 153 950 â 8 153 972 â 8 153 941 -8 151 102",
+                "(84.8) 8 153 649 â 8 157 095"
+            ],
+            "contact_website": "http://www.tuongan.com.vn",
+            "crawled_at": "Mon, 10 Sep 2018 13:48:32 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:28 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "75000",
+                "listed_date": "12-26-2006",
+                "listing_volume": "18980200",
+                "market_cap": "189802000000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "189802000000",
+            "name": "TUONG AN VEGETABLE OIL JOINT STOCK COMPANY",
+            "ticker_symbol": "TAC",
+            "uid": "http://stock.vietnammarkets.com/food-processing/TAC/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:28 GMT"
+        },
+        {
+            "address_city_district": "",
+            "address_country": "Vietnam",
+            "address_full": "331 Báº¾N VÃN Äá»N, PHÆ¯á»NG 1, QUáº¬N 4",
+            "address_full_en": "331 BETWEEN YOU AND YOU, PART 1, QUALITY 4",
+            "address_province": "",
+            "address_street": "331 BETWEEN YOU AND YOU",
+            "auditing_company": [
+                "CÃNG TY TÆ¯ Váº¤N TÃI CHÃNH Káº¾ TOÃN VÃ KIá»M TOÃN (AASC)"
+            ],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "4103000436  05-31-2001   Sá» Káº¾ HOáº CH VÃ Äáº¦U TÆ¯ TPHCM",
+                "established_license": "09/2001/QÄ-TTg  11-01-2001"
+            },
+            "business_summary": "- Thu mua, sáº£n xuáº¥t cháº¿ biáº¿n cÃ¡c máº·t hÃ ng thá»§y háº£i sáº£n, nÃ´ng sáº£n, sÃºc sáº£n.   - Kinh doanh xuáº¥t nháº­p kháº©u trá»±c tiáº¿p thá»§y háº£i sáº£n, nÃ´ng sáº£n, sÃºc sáº£n vÃ  cÃ¡c loáº¡i hÃ ng hÃ³a, mÃ¡y mÃ³c thiáº¿t bá» váº­t tÆ° nguyÃªn liá»u       hÃ³a cháº¥t, cÃ´ng nghá» pháº©m.   - Dá»ch vá»¥ cung cáº¥p thiáº¿t bá» vÃ  láº¯p Äáº·t cÃ´ng trÃ¬nh láº¡nh, cÃ´ng nghá» Äiá»u hÃ²a khÃ´ng khÃ­, há» thá»ng Äiá»n.   - Há»£p tÃ¡c liÃªn doanh liÃªn káº¿t vá»i cÃ¡c tá» chá»©c kinh táº¿ trong vÃ  ngoÃ i nÆ°á»c.   - Hoáº¡t Äá»ng sáº£n xuáº¥t kinh doanh cÃ¡c ngÃ nh nghá» khÃ¡c theo phÃ¡p luáº­t quy Äá»nh.",
+            "business_summary_en": "- Buy, buy, sell, buy, sell, buy, sell. - Doing business in the comfort of your living room, living room, dining room and dining room, Can you believe me? From the grassroots, is it? break up. - Support and support. and to be a teacher, is it? I do not want to light. - Sales and marketing representatives. business in the country and abroad. - Doing business in the business world? The rules are as follows.",
+            "contact_email": "donglanh4@hcm.vnn.vn",
+            "contact_phone": [
+                "(84.8) 940 0173",
+                "(84.8) 940 1735"
+            ],
+            "contact_website": "www.seapriexcono4.com",
+            "crawled_at": "Mon, 10 Sep 2018 13:48:59 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:28 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "16000",
+                "listed_date": "08-29-2002",
+                "listing_volume": "1500000",
+                "market_cap": "30000000000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "30000000000",
+            "name": "SEAFOOD IMPORT-EXPORT JS CO. NO. 4",
+            "ticker_symbol": "TS4",
+            "uid": "http://stock.vietnammarkets.com/food-processing/TS4/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:28 GMT"
+        },
+        {
+            "address_city_district": "HCM City",
+            "address_country": "Vietnam",
+            "address_full": "36-38 Ngo Duc Ke Street, District 1, HCM City",
+            "address_full_en": "36-38 Ngo Duc Ke Street, District 1, HCM City",
+            "address_province": "",
+            "address_street": "36-38 Ngo Duc Ke Street",
+            "auditing_company": [],
+            "business": "Food processing",
+            "business_registration": {
+                "business_license": "4103001932  11-20-2003   Ho Chi Minh City Department of Planning and Investment",
+                "established_license": "155/2003QD-BCN  10-01-2003  Ministry of Industry"
+            },
+            "business_summary": "",
+            "business_summary_en": "",
+            "contact_email": "vinamilk@vinamilk-vn.com",
+            "contact_phone": [
+                "(848) 824 4228",
+                "(848) 829 4845"
+            ],
+            "contact_website": "www.vinamilk.com.vn",
+            "crawled_at": "Mon, 10 Sep 2018 13:49:35 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:29 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "53000",
+                "listed_date": "01-19-2006",
+                "listing_volume": "159000000",
+                "market_cap": "1752756700000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "1752756700000",
+            "name": "VIETNAM DAIRY CORPORATION",
+            "ticker_symbol": "VNM",
+            "uid": "http://stock.vietnammarkets.com/food-processing/VNM/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:29 GMT"
+        }
+    ],
+    "message": "successful",
+    "status_code": 200
+}

@@ -1,0 +1,347 @@
+{
+    "count": 8,
+    "data": [
+        {
+            "address_city_district": "",
+            "address_country": "Vietnam",
+            "address_full": "Ba Dinh Ward, Bim Son Town, Thanh Hoa Privince",
+            "address_full_en": "Ba Dinh Ward, Bim Son Town, Thanh Hoa Privince",
+            "address_province": "",
+            "address_street": "Ba Dinh Ward",
+            "auditing_company": [
+                "Accounting and Auditing Financial Consultancy Service Company (AASC)",
+                "Address: 01 Le Phung Hieu Street - Hanoi",
+                "Tel: (84-4) 826 8681 - Fax: (84-4) 825 3973",
+                "Email: aasc-ndd@hn.vnn.vn",
+                "Website: http://www.aasc.com.vn"
+            ],
+            "business": "Construction materials",
+            "business_registration": {
+                "business_license": "20603000429  05-01-2006   Planning and Investment Department of Thanh Hoa Province",
+                "established_license": "366/BXD-TCLD  08-12-1993  Ministry of Construction"
+            },
+            "business_summary": "Manufacturing, trading, exporting and importing cement, clinker and other construction materials",
+            "business_summary_en": "Manufacturing, trading, exporting and importing cement, clinker and other construction materials",
+            "contact_email": "ttximangbimson@hn.vnn.vn",
+            "contact_phone": [
+                "(84-37) 824 242",
+                "(84-37) 824 046"
+            ],
+            "contact_website": "www.ximangbimson.com.vn",
+            "crawled_at": "Mon, 10 Sep 2018 13:43:54 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:26 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "0",
+                "listed_date": "11-24-2006",
+                "listing_volume": "90000000",
+                "market_cap": "900000000000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HASTC",
+            "market_cap": "900000000000",
+            "name": "BIM SON CEMENT JOINT STOCK COMPANY",
+            "ticker_symbol": "BCC",
+            "uid": "http://stock.vietnammarkets.com/construction-materials/BCC/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:26 GMT"
+        },
+        {
+            "address_city_district": "Kim Bang District",
+            "address_country": "Vietnam",
+            "address_full": "Thanh Son Commune, Kim Bang Distric, Ha Nam Province",
+            "address_full_en": "Thanh Son Commune, Kim Bang District, Hanam Province",
+            "address_province": "Hanam Province",
+            "address_street": "Thanh Son Commune",
+            "auditing_company": [
+                "Vietnam Auditing Company (VACO)",
+                "Address: 8 Pham Ngoc Thach Street, Dong Da District, Hanoi",
+                "Tel: (84 - 4) 852 2104",
+                "Fax: (84 - 4) 852 4119",
+                "Email: vaco-hn@vacodtt.com",
+                "Website: http://www.vacodtt.com"
+            ],
+            "business": "Construction materials",
+            "business_registration": {
+                "business_license": "0603000105  05-01-2006   Planning and Investment Department of Ha Nam Province",
+                "established_license": "54/BXD/TCLD  01-28-1997  Ministry of Construction"
+            },
+            "business_summary": "- Manufacturing and trading cement and cement products; - Manufacturing and trading other construction materials. - Trading other products.",
+            "business_summary_en": "- Manufacturing and trading cement and cement products; - Manufacturing and trading other construction materials. - Trading other products.",
+            "contact_email": "",
+            "contact_phone": [
+                "(84-351) 854 032",
+                "(84-351) 851 320"
+            ],
+            "contact_website": "",
+            "crawled_at": "Mon, 10 Sep 2018 13:44:09 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:26 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "0",
+                "listed_date": "12-05-2006",
+                "listing_volume": "900000000",
+                "market_cap": "900000000000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HASTC",
+            "market_cap": "900000000000",
+            "name": "BUT SON CEMENT JOINT STOCK COMPANY",
+            "ticker_symbol": "BTS",
+            "uid": "http://stock.vietnammarkets.com/construction-materials/BTS/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:26 GMT"
+        },
+        {
+            "address_city_district": "",
+            "address_country": "Vietnam",
+            "address_full": "Nhon Trach Industrial Park I, Dong Nai Province",
+            "address_full_en": "",
+            "address_province": "",
+            "address_street": "Nhon Trach Industrial Park I, Dong Nai Province",
+            "auditing_company": [
+                "Auditing and Consulting Joint Stock Company (A&amp;C)",
+                "Head office: 229 Dong Khoi Street, District 1, Ho Chi Minh City",
+                "Tel: (08) 8 272 295 - Fax: (08) 8 272 300",
+                "Branch: 877 Hong Ha Street, Hoan Kiem District, Hanoi",
+                "Tel: (04) 9 324 133 - Fax: (04) 9 324 113"
+            ],
+            "business": "Construction materials",
+            "business_registration": {
+                "business_license": "52/GP-KCN-ÄN  09-01-2000   Dong Nai Industrial Zone Authority",
+                "established_license": "00-00-0000"
+            },
+            "business_summary": "Manufacturing high-grade enameled tiles and fine-art tiles",
+            "business_summary_en": "Manufacturing high-grade enameled tiles and fine-art tiles",
+            "contact_email": "changyih@hcm.vnn.vn",
+            "contact_phone": [
+                "(84-61) 560 770 ~ 75",
+                "(84-61) 560 778 ~ 79"
+            ],
+            "contact_website": "http://www.changyih-ceramic.com",
+            "crawled_at": "Mon, 10 Sep 2018 13:44:32 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:27 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "20000",
+                "listed_date": "00-00-0000",
+                "listing_volume": "1990500",
+                "market_cap": "90478550000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "90478550000",
+            "name": "CHANG YIH CERAMIC JOINT STOCK COMPANY",
+            "ticker_symbol": "CYC",
+            "uid": "http://stock.vietnammarkets.com/construction-materials/CYC/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:27 GMT"
+        },
+        {
+            "address_city_district": "",
+            "address_country": "Vietnam",
+            "address_full": "01 Le Van Hien Street, Danang City",
+            "address_full_en": "",
+            "address_province": "",
+            "address_street": "01 Le Van Hien Street, Danang City",
+            "auditing_company": [
+                "Auditing and Informatic Services Company - Central Vietnam Branch",
+                "Address: 92 A, Quang Trung, Danang City",
+                "Tel: 0511. 895619",
+                "Fax: 0511. 895619"
+            ],
+            "business": "Chemicals",
+            "business_registration": {
+                "business_license": "3203000850  12-31-2005   Department of Planning and Investment of Danang City",
+                "established_license": "320/QD/TCNSDT  05-26-1993  Ministry of Heavy Industry"
+            },
+            "business_summary": "- Manufacturing, trading, importing and exporting rubber products and equipment for rubber industry;- Manufacturing and installing equipment for rubber industry;- Other commercial services.",
+            "business_summary_en": "- Manufacturing, trading, importing and exporting rubber products and equipment for rubber industry;- Manufacturing and installing equipment for rubber industry;- Other commercial services.",
+            "contact_email": "Danarub@dng.vnn.vn",
+            "contact_phone": [
+                "0511.847408",
+                "0511.836195"
+            ],
+            "contact_website": "http://www.drc.com.vn",
+            "crawled_at": "Mon, 10 Sep 2018 13:44:55 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:27 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "95000",
+                "listed_date": "12-29-2006",
+                "listing_volume": "9247500",
+                "market_cap": "92475000000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "92475000000",
+            "name": "DANANG RUBBER JOINT STOCK COMPANY",
+            "ticker_symbol": "DRC",
+            "uid": "http://stock.vietnammarkets.com/chemicals/DRC/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:27 GMT"
+        },
+        {
+            "address_city_district": "Dong Da District",
+            "address_country": "Vietnam",
+            "address_full": "89 Lang Ha Street, Dong Da District, Hanoi",
+            "address_full_en": "89 Long Ha Street, Dong Da District, Hanoi",
+            "address_province": "",
+            "address_street": "89 Long Ha Street",
+            "auditing_company": [
+                "KPMG Vietnam Ltd",
+                "Address: Floor 16 Vietcombank Tower, 198 Tran Quang Khai Street",
+                "Tel: 04-9360380"
+            ],
+            "business": "Distribution",
+            "business_registration": {
+                "business_license": "0103001041  05-13-2002   Department of Planning and Investment of Hanoi",
+                "established_license": "00-00-0000"
+            },
+            "business_summary": "- System integration- Software solutions- Software export- ERP services- System integration- ICT product distribution- internet service- Online content service- IT training- Computer assembly- Research and development- Infrastructure and real estate investment and development- Finance and banking services- Education and training- Retail- Television entertainment- Advertisement",
+            "business_summary_en": "- System integration- Software solutions- Software export- ERP services- System integration- ICT product distribution- internet service- Online content service- IT training- Computer assembly- Research and development- Infrastructure and real estate investment and development- Finance and banking services- Education and training- Retail- Television entertainment- Advertisement",
+            "contact_email": "",
+            "contact_phone": [
+                "(84-4) 8 560 300",
+                "(84-4) 8 560 316"
+            ],
+            "contact_website": "www.fpt.com.vn",
+            "crawled_at": "Mon, 10 Sep 2018 13:45:08 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:27 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "400000",
+                "listed_date": "12-13-2006",
+                "listing_volume": "91215344",
+                "market_cap": "912153440000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "912153440000",
+            "name": "THE CORPORATION FOR FINANCING AND PROMOTING TECHNOLOGY",
+            "ticker_symbol": "FPT",
+            "uid": "http://stock.vietnammarkets.com/distribution/FPT/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:27 GMT"
+        },
+        {
+            "address_city_district": "",
+            "address_country": "Vietnam",
+            "address_full": "Sá» 4, ÄÆ°á»ng 30/4, PhÆ°á»ng 1, Thá» xÃ£ Cao LÃ£nh, Tá»nh Äá»ng ThÃ¡p",
+            "address_full_en": "Sipunculus\"?? 4, Wed 30/4, Wed. 1, High quality, Low price",
+            "address_province": "",
+            "address_street": "Sipunculus\"?? 4",
+            "auditing_company": [],
+            "business": "Pharmacy and biotech",
+            "business_registration": {
+                "business_license": "00-00-0000",
+                "established_license": "00-00-0000"
+            },
+            "business_summary": "",
+            "business_summary_en": "",
+            "contact_email": "Imexpharm@hcm.vnn.vn",
+            "contact_phone": [
+                "(84-67) 851620",
+                "(84-67) 853106"
+            ],
+            "contact_website": "www.imexpharm.com",
+            "crawled_at": "Mon, 10 Sep 2018 13:45:54 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:27 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "100000",
+                "listed_date": "12-04-2006",
+                "listing_volume": "8400000",
+                "market_cap": "92387500000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "92387500000",
+            "name": "IMEXPHARM PHARMACEUTICAL JOINT STOCK COMPANY",
+            "ticker_symbol": "IMP",
+            "uid": "http://stock.vietnammarkets.com/pharmacy-and-biotech/IMP/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:27 GMT"
+        },
+        {
+            "address_city_district": "",
+            "address_country": "Vietnam",
+            "address_full": "989 Giai Phong Avenue â Hoang Mai District - Hanoi",
+            "address_full_en": "",
+            "address_province": "",
+            "address_street": "989 Giai Phong Avenue â Hoang Mai District - Hanoi",
+            "auditing_company": [],
+            "business": "",
+            "business_registration": {
+                "business_license": "00-00-0000",
+                "established_license": "00-00-0000"
+            },
+            "business_summary": "",
+            "business_summary_en": "",
+            "contact_email": "info@lilama10.com.vn",
+            "contact_phone": [
+                "(84-4) 8649584",
+                "(84-4) 8649581"
+            ],
+            "contact_website": "www.Lilama10.com.vn",
+            "crawled_at": "Mon, 10 Sep 2018 13:46:04 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:27 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "0",
+                "listed_date": "00-00-0000",
+                "listing_volume": "0",
+                "market_cap": "90000000000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HOSE",
+            "market_cap": "90000000000",
+            "name": "LILAMA 10 JOINT STOCK COMPANY",
+            "ticker_symbol": "L10",
+            "uid": "http://stock.vietnammarkets.com/others/L10/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:27 GMT"
+        },
+        {
+            "address_city_district": "",
+            "address_country": "Vietnam",
+            "address_full": "",
+            "address_full_en": "",
+            "address_province": "",
+            "address_street": "",
+            "auditing_company": [],
+            "business": "Electric and electronics equipment",
+            "business_registration": {
+                "business_license": "00-00-0000",
+                "established_license": "00-00-0000"
+            },
+            "business_summary": "",
+            "business_summary_en": "",
+            "contact_email": "",
+            "contact_phone": [
+                "(84.34) 652 577",
+                "(84.34) 652 576"
+            ],
+            "contact_website": "http://www.capthanglong.vn",
+            "crawled_at": "Mon, 10 Sep 2018 13:48:43 GMT",
+            "created_at": "Sun, 09 Sep 2018 16:04:28 GMT",
+            "financial_summary": {
+                "capital_currency": "VND",
+                "equity": "0",
+                "initial_listed_price": "0",
+                "listed_date": "12-11-2006",
+                "listing_volume": "9980000",
+                "market_cap": "99800000000",
+                "par_value": "10000"
+            },
+            "listing_bourse": "HASTC",
+            "market_cap": "99800000000",
+            "name": "THANG LONG TELECOM JOINT STOCK COMPANY",
+            "ticker_symbol": "TLC",
+            "uid": "http://stock.vietnammarkets.com/electric-and-electronics-equipment/TLC/",
+            "updated_at": "Sun, 09 Sep 2018 16:04:28 GMT"
+        }
+    ],
+    "message": "successful",
+    "status_code": 200
+}

@@ -243,10 +243,11 @@ $ curl -i http://0.0.0.0:8000/companies?business_industry=Food processing
 }
 ````
 
-#### 4. Filter companies by company revenue
-Filter companies by revenue
+#### 4. Filter companies by company Market Cap
+Filter companies by market cap
 
 ````
+$ curl -i http://0.0.0.0:8000/companies?market_cap_min=90000000000&market_cap_min=96000000000&
 {
     "count": 8,
     "data": [
