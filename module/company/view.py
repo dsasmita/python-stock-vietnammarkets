@@ -115,7 +115,32 @@ def company_insert_db():
             db_crawler.session.commit()
 
         else:
-            print('found')
+            prof = Company.query.filter_by(uid=profile['uid']).first()
+
+            prof.name = profile['name']
+            prof.ticker_symbol = profile['ticker_symbol']
+            prof.uid = profile['uid']
+            prof.business = profile['business']
+            prof.contact_phone = json.dumps(profile['contact_phone'])
+            prof.contact_website = profile['contact_website']
+            prof.contact_email = profile['contact_email']
+            prof.listing_bourse = profile['listing_bourse']
+            prof.address_full_en = profile['address_full_en']
+            prof.address_full = profile['address_full']
+            prof.address_city_district = profile['address_city_district']
+            prof.address_street = profile['address_street']
+            prof.address_province = profile['address_province']
+            prof.address_country = profile['address_country']
+            prof.business_summary = profile['business_summary']
+            prof.business_summary_en = profile['business_summary_en']
+            prof.market_cap = profile['market_cap']
+            prof.financial_summary = json.dumps(profile['financial_summary'])
+            prof.business_registration = json.dumps(profile['business_registration'])
+            prof.auditing_company = json.dumps(profile['auditing_company'])
+            prof.crawled_at = request.args.get('date', profile['crawled_at'])
+
+            db_crawler.session.add(prof)
+            db_crawler.session.commit()
 
     data = {
         'page': 'stock.vietnammarkets.insert',
