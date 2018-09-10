@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
+import datetime
 import re
 
 import bs4
 import requests
+from flask import request
 from googletrans import Translator
 
 
@@ -15,15 +17,18 @@ class VietnamMarkets:
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
         'Cache-Control': 'max-age=0', 'Connection': 'keep-alive'}
     LINK = 'http://stock.vietnammarkets.com/vietnam-stock-market.php'
-    LINK_PROFILE = 'http://stock.vietnammarkets.com/food-processing/ABT/'
 
     def company_index(self):
-        content = requests.get(VietnamMarkets.LINK, timeout=10, headers=VietnamMarkets.HEADERS)
+        companies = []
+        try:
+            content = requests.get(VietnamMarkets.LINK, timeout=10, headers=VietnamMarkets.HEADERS)
+        except:
+            return companies
+
         response = bs4.BeautifulSoup(content.text, "html.parser")
 
         result = response.find('div', 'results')
 
-        companies = []
         if result is not None:
             for tr in result.select("tr"):
                 row = tr.findAll('td')
@@ -34,6 +39,7 @@ class VietnamMarkets:
                     tmp['company_name'] = row[1].get_text()
                     tmp['business'] = row[2].get_text()
                     tmp['listing_bourse'] = row[3].get_text()
+                    tmp['crawled_at'] = request.args.get('date', datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
                     companies.append(tmp)
 
         response.decompose()
@@ -41,11 +47,14 @@ class VietnamMarkets:
 
     def company_profiles(self, profile):
         url = profile['url']
-        content = requests.get(url, timeout=10, headers=VietnamMarkets.HEADERS)
+        profile = {}
+        try:
+            content = requests.get(url, timeout=10, headers=VietnamMarkets.HEADERS)
+        except:
+            return profile
         response = bs4.BeautifulSoup(content.text, "html.parser")
 
         result = response.find('div', 'results')
-        profile = {}
 
         if result is not None:
             container = result.select_one('table')
@@ -169,13 +178,14 @@ class VietnamMarkets:
                     registration['business_license'] = row.replace('Business License:', '').replace('Business License', '').strip()
             profile['business_registration'] = registration
 
+            profile['crawled_at'] = request.args.get('date', datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
+
         response.decompose()
 
         data = profile
         return data
 
     def company_crawler_list(self, profiles):
-
         n = 0
         results = []
         for profile in profiles:
@@ -184,3 +194,9 @@ class VietnamMarkets:
             n = n + 1
 
         return results
+
+    def phone_format(self, phone_number):
+        clean_phone_number = re.sub('[^0-9]+', '', phone_number)
+        formatted_phone_number = re.sub("(\d)(?=(\d{3})+(?!\d))", r"\1-", "%d" % int(clean_phone_number[:-1])) + \
+                                 clean_phone_number[-1]
+        return formatted_phone_number
